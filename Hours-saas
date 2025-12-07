@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit - Hours SaaS MVP"
+git branch -M main
+git remote add origin https://github.com/trevorhal88/Hours-saas.git
+git push -u origin main
